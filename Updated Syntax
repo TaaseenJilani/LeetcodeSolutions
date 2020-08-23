@@ -18,3 +18,4 @@ res = []
 for key, value in dictionary.items():
     res.append(" ".join([str(value), key]))
 return res
+ 
